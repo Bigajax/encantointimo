@@ -1,0 +1,337 @@
+{
+  "categorias": [
+    {
+      "id": "c-pijamas",
+      "nome": "Pijamas",
+      "slug": "pijamas",
+      "ordem": 1,
+      "ativo": true,
+      "capa": "/produtos/short-doll-margaridas.webp",
+      "capaBlur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoJAAwAA4BaJZgCdAEedR/HCbAA/Sv4MNzlwOWrWWV1UIekg8H0ZSzegV4o+hd9l3va5qbh5fId/47po+W6dO0MI582BQAA"
+    },
+    {
+      "id": "c-lingerie",
+      "nome": "Lingerie",
+      "slug": "lingerie",
+      "ordem": 2,
+      "ativo": true,
+      "capa": "/produtos/babydoll-vaquinha-com-renda-preta.webp",
+      "capaBlur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoHAAwAA4BaJYwCdH8AE4AUiEAA/fbCVqPwIsmHalAe+vANSatdyfwK2jsHUe7cBw16dfJpLfPsODLzoTurTcxC+LUoAAAA"
+    },
+    {
+      "id": "c-body-splash",
+      "nome": "Body splash",
+      "slug": "body-splash",
+      "ordem": 3,
+      "ativo": true,
+      "capa": "/produtos/body-splash-victoria-s-secret.webp",
+      "capaBlur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoJAAwAA4BaJYwCdAYstZq36EgAzjM1V2xMO59uvlVei2Ne/9wLcctqtHD3EcKLOKRc3H6NtsRi/D3ms+PlNs2DbK/iQAJrEljy+gK+9Ymq/IFIoAAAAA=="
+    }
+  ],
+  "produtos": [
+    {
+      "id": "p-001",
+      "codigo": "EI-0001",
+      "nome": "Babydoll vaquinha com renda preta",
+      "slug": "babydoll-vaquinha-com-renda-preta",
+      "descricao": "Sexy e delicado: a estampa de vaquinha com o bebê de laço, e a renda preta na alcinha, no busto e na barra do short. Alcinha regulável, laço de cetim no decote.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "lingerie",
+      "tamanhos": [],
+      "cores": [],
+      "linha": "alcinha e short com renda",
+      "humor": "sexy",
+      "destaque": true,
+      "ativo": true,
+      "ordem": 1,
+      "imagens": [
+        {
+          "url": "/produtos/babydoll-vaquinha-com-renda-preta.webp",
+          "largura": 828,
+          "altura": 1472,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoHAAwAA4BaJYwCdH8AE4AUiEAA/fbCVqPwIsmHalAe+vANSatdyfwK2jsHUe7cBw16dfJpLfPsODLzoTurTcxC+LUoAAAA",
+          "alt": "Babydoll vaquinha com renda preta",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-002",
+      "codigo": "EI-0002",
+      "nome": "Short doll margaridas",
+      "slug": "short-doll-margaridas",
+      "descricao": "Malha canelada rosa com margaridas brancas de miolo amarelo, alcinha fina, lacinho no decote e a barra ondulada na blusa e no short. O pijama de acordar leve.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "pijamas",
+      "tamanhos": [],
+      "cores": [],
+      "linha": "alcinha e short",
+      "humor": "fofa",
+      "destaque": true,
+      "ativo": true,
+      "ordem": 2,
+      "imagens": [
+        {
+          "url": "/produtos/short-doll-margaridas.webp",
+          "largura": 1024,
+          "altura": 1365,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoJAAwAA4BaJZgCdAEedR/HCbAA/Sv4MNzlwOWrWWV1UIekg8H0ZSzegV4o+hd9l3va5qbh5fId/47po+W6dO0MI582BQAA",
+          "alt": "Short doll margaridas",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-003",
+      "codigo": "EI-0003",
+      "nome": "Body splash Victoria's Secret",
+      "slug": "body-splash-victoria-s-secret",
+      "descricao": "A brume perfumada original, frasco de 250 ml com a tampa dourada. Quatro fragrâncias na loja: Midnight Bloom (floral da noite), Bare Vanilla (baunilha), Aqua Kiss (fresca) e Romantic (floral rosa). Escolha a sua na hora do pedido.",
+      "marca": "Victoria's Secret",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "body-splash",
+      "tamanhos": [],
+      "cores": [
+        "Midnight Bloom",
+        "Bare Vanilla",
+        "Aqua Kiss",
+        "Romantic"
+      ],
+      "linha": "250 ml",
+      "humor": "cheirosa",
+      "destaque": true,
+      "ativo": true,
+      "ordem": 3,
+      "imagens": [
+        {
+          "url": "/produtos/body-splash-victoria-s-secret.webp",
+          "largura": 969,
+          "altura": 1277,
+          "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoJAAwAA4BaJYwCdAYstZq36EgAzjM1V2xMO59uvlVei2Ne/9wLcctqtHD3EcKLOKRc3H6NtsRi/D3ms+PlNs2DbK/iQAJrEljy+gK+9Ymq/IFIoAAAAA==",
+          "alt": "Body splash Victoria's Secret",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-004",
+      "codigo": "EI-0004",
+      "nome": "Pijama Monstros S.A.",
+      "slug": "pijama-monstros-s-a",
+      "descricao": "Azul-piscina com o M e o olho do Mike, bolinhas roxas, camiseta de manga curta e short com a barra ondulada. Para quem dorme de bom humor.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "pijamas",
+      "tamanhos": [],
+      "cores": [],
+      "linha": "camiseta e short",
+      "humor": "divertida",
+      "destaque": false,
+      "ativo": true,
+      "ordem": 103,
+      "imagens": [
+        {
+          "url": "/produtos/pijama-monstros-s-a.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoJAAwAA4BaJZgCdAEUpCF9xiHwAP6bGGer8OgC5FcJivTRDzKq7v9SVcsU+6D3BuWyXl7sg6VLjxaFykL4LFB4AAA=",
+          "alt": "Pijama Monstros S.A.",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-005",
+      "codigo": "EI-0005",
+      "nome": "Short doll vaquinha",
+      "slug": "short-doll-vaquinha",
+      "descricao": "Manchas de vaquinha com a vaquinha de laço rosa espalhada pela estampa, alcinha fina e short com a barra ondulada. Fofo sem esforço.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "pijamas",
+      "tamanhos": [],
+      "cores": [],
+      "linha": "alcinha e short",
+      "humor": "fofa",
+      "destaque": false,
+      "ativo": true,
+      "ordem": 104,
+      "imagens": [
+        {
+          "url": "/produtos/short-doll-vaquinha.webp",
+          "largura": 985,
+          "altura": 1314,
+          "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoJAAwAA4BaJZQAAmiSxuYAAP5hYifNF60I1ZP75jsOCOx6bmtp7toXOkcwQkI4KHreZLms3MkoLLqFAAA=",
+          "alt": "Short doll vaquinha",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-006",
+      "codigo": "EI-0006",
+      "nome": "Pijama Victoria's Secret preto",
+      "slug": "pijama-victoria-s-secret-preto",
+      "descricao": "Preto com o monograma VS e o nome da marca em branco, camiseta de manga curta e short curto, os dois com a barra ondulada. O clássico da gaveta.",
+      "marca": "Victoria's Secret",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "pijamas",
+      "tamanhos": [],
+      "cores": [],
+      "linha": "camiseta e short",
+      "humor": "sexy",
+      "destaque": true,
+      "ativo": true,
+      "ordem": 4,
+      "imagens": [
+        {
+          "url": "/produtos/pijama-victoria-s-secret-preto.webp",
+          "largura": 985,
+          "altura": 1314,
+          "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoJAAwAA4BaJZQC7AYsjbSHVIr0AAD897Csuqbgd6XFOin0Dc79JrbwwU2rV1kSQ/aS+eXn7LnqpMg6HTz/bVj7qnZh7yTPDEw70AAA",
+          "alt": "Pijama Victoria's Secret preto",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-007",
+      "codigo": "EI-0007",
+      "nome": "Pijama Victoria's Secret listrado rosa",
+      "slug": "pijama-victoria-s-secret-listrado-rosa",
+      "descricao": "As listras rosa e branco da marca com o monograma e o coração alado, camiseta de manga curta e short com a barra ondulada.",
+      "marca": "Victoria's Secret",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "pijamas",
+      "tamanhos": [],
+      "cores": [],
+      "linha": "camiseta e short",
+      "humor": "fofa",
+      "destaque": false,
+      "ativo": true,
+      "ordem": 106,
+      "imagens": [
+        {
+          "url": "/produtos/pijama-victoria-s-secret-listrado-rosa.webp",
+          "largura": 985,
+          "altura": 1314,
+          "blur": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoJAAwAA4BaJZQAAkmyPAAA/lfuKAU5TXksxIL7VkjA7NuSDYeqvGWWkHzegw9hNfAaWgAA",
+          "alt": "Pijama Victoria's Secret listrado rosa",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-008",
+      "codigo": "EI-0008",
+      "nome": "Short doll beijos e corações",
+      "slug": "short-doll-beijos-e-coracoes",
+      "descricao": "Branco com bocas vermelhas, coraçõezinhos e o monograma em preto, alcinha fina e short com a barra ondulada. Delicado, elegante e cheio de charme, como diz o post.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "pijamas",
+      "tamanhos": [],
+      "cores": [],
+      "linha": "alcinha e short",
+      "humor": "divertida",
+      "destaque": false,
+      "ativo": true,
+      "ordem": 107,
+      "imagens": [
+        {
+          "url": "/produtos/short-doll-beijos-e-coracoes.webp",
+          "largura": 985,
+          "altura": 1314,
+          "blur": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAgCdASoJAAwAA4BaJZQCdAYoBMrtUfYAAP7JOzt4VQPAMklMFGAncbO4xvcySfjqSdWmqroAAA==",
+          "alt": "Short doll beijos e corações",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-009",
+      "codigo": "EI-0009",
+      "nome": "Short doll Victoria's Secret preto",
+      "slug": "short-doll-victoria-s-secret-preto",
+      "descricao": "Preto com o monograma VS em branco, alcinha fina regulável e short curto com a barra ondulada. A versão de alcinha do clássico.",
+      "marca": "Victoria's Secret",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "pijamas",
+      "tamanhos": [],
+      "cores": [],
+      "linha": "alcinha e short",
+      "humor": "sexy",
+      "destaque": true,
+      "ativo": true,
+      "ordem": 5,
+      "imagens": [
+        {
+          "url": "/produtos/short-doll-victoria-s-secret-preto.webp",
+          "largura": 985,
+          "altura": 1314,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoJAAwAA4BaJZQAD43wNlDlRc7AgAD+4eExE4Zc4bz2VkGnmjsn8nrgpKH0jsapnYLgI3Usuaomr5pNLwBjWPhXrfISkAAA",
+          "alt": "Short doll Victoria's Secret preto",
+          "ordem": 0
+        }
+      ]
+    }
+  ],
+  "hero": [
+    {
+      "url": "/produtos/babydoll-vaquinha-com-renda-preta.webp",
+      "largura": 828,
+      "altura": 1472,
+      "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoHAAwAA4BaJYwCdH8AE4AUiEAA/fbCVqPwIsmHalAe+vANSatdyfwK2jsHUe7cBw16dfJpLfPsODLzoTurTcxC+LUoAAAA",
+      "alt": "Babydoll vaquinha com renda preta",
+      "ordem": 0,
+      "slug": "babydoll-vaquinha-com-renda-preta"
+    },
+    {
+      "url": "/produtos/short-doll-margaridas.webp",
+      "largura": 1024,
+      "altura": 1365,
+      "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoJAAwAA4BaJZgCdAEedR/HCbAA/Sv4MNzlwOWrWWV1UIekg8H0ZSzegV4o+hd9l3va5qbh5fId/47po+W6dO0MI582BQAA",
+      "alt": "Short doll margaridas",
+      "ordem": 0,
+      "slug": "short-doll-margaridas"
+    },
+    {
+      "url": "/produtos/body-splash-victoria-s-secret.webp",
+      "largura": 969,
+      "altura": 1277,
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoJAAwAA4BaJYwCdAYstZq36EgAzjM1V2xMO59uvlVei2Ne/9wLcctqtHD3EcKLOKRc3H6NtsRi/D3ms+PlNs2DbK/iQAJrEljy+gK+9Ymq/IFIoAAAAA==",
+      "alt": "Body splash Victoria's Secret",
+      "ordem": 0,
+      "slug": "body-splash-victoria-s-secret"
+    },
+    {
+      "url": "/produtos/pijama-victoria-s-secret-preto.webp",
+      "largura": 985,
+      "altura": 1314,
+      "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoJAAwAA4BaJZQC7AYsjbSHVIr0AAD897Csuqbgd6XFOin0Dc79JrbwwU2rV1kSQ/aS+eXn7LnqpMg6HTz/bVj7qnZh7yTPDEw70AAA",
+      "alt": "Pijama Victoria's Secret preto",
+      "ordem": 0,
+      "slug": "pijama-victoria-s-secret-preto"
+    },
+    {
+      "url": "/produtos/short-doll-victoria-s-secret-preto.webp",
+      "largura": 985,
+      "altura": 1314,
+      "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoJAAwAA4BaJZQAD43wNlDlRc7AgAD+4eExE4Zc4bz2VkGnmjsn8nrgpKH0jsapnYLgI3Usuaomr5pNLwBjWPhXrfISkAAA",
+      "alt": "Short doll Victoria's Secret preto",
+      "ordem": 0,
+      "slug": "short-doll-victoria-s-secret-preto"
+    }
+  ]
+}

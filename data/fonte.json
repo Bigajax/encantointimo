@@ -1,0 +1,88 @@
+{
+  "origem": "_fonte/encanto",
+  "categorias": ["Pijamas", "Lingerie", "Body splash"],
+  "itens": [
+    {
+      "nome": "Babydoll vaquinha com renda preta",
+      "categoria": "Lingerie",
+      "local": "00.jpg",
+      "linha": "alcinha e short com renda",
+      "humor": "sexy",
+      "descricao": "Sexy e delicado: a estampa de vaquinha com o bebê de laço, e a renda preta na alcinha, no busto e na barra do short. Alcinha regulável, laço de cetim no decote.",
+      "destaque": true
+    },
+    {
+      "nome": "Short doll margaridas",
+      "categoria": "Pijamas",
+      "local": "01.jpg",
+      "linha": "alcinha e short",
+      "humor": "fofa",
+      "descricao": "Malha canelada rosa com margaridas brancas de miolo amarelo, alcinha fina, lacinho no decote e a barra ondulada na blusa e no short. O pijama de acordar leve.",
+      "destaque": true
+    },
+    {
+      "nome": "Body splash Victoria's Secret",
+      "categoria": "Body splash",
+      "local": "02.jpg",
+      "marca": "Victoria's Secret",
+      "linha": "250 ml",
+      "humor": "cheirosa",
+      "cores": ["Midnight Bloom", "Bare Vanilla", "Aqua Kiss", "Romantic"],
+      "descricao": "A brume perfumada original, frasco de 250 ml com a tampa dourada. Quatro fragrâncias na loja: Midnight Bloom (floral da noite), Bare Vanilla (baunilha), Aqua Kiss (fresca) e Romantic (floral rosa). Escolha a sua na hora do pedido.",
+      "destaque": true
+    },
+    {
+      "nome": "Pijama Monstros S.A.",
+      "categoria": "Pijamas",
+      "local": "04.jpg",
+      "linha": "camiseta e short",
+      "humor": "divertida",
+      "descricao": "Azul-piscina com o M e o olho do Mike, bolinhas roxas, camiseta de manga curta e short com a barra ondulada. Para quem dorme de bom humor."
+    },
+    {
+      "nome": "Short doll vaquinha",
+      "categoria": "Pijamas",
+      "local": "05.jpg",
+      "linha": "alcinha e short",
+      "humor": "fofa",
+      "descricao": "Manchas de vaquinha com a vaquinha de laço rosa espalhada pela estampa, alcinha fina e short com a barra ondulada. Fofo sem esforço."
+    },
+    {
+      "nome": "Pijama Victoria's Secret preto",
+      "categoria": "Pijamas",
+      "local": "06.jpg",
+      "marca": "Victoria's Secret",
+      "linha": "camiseta e short",
+      "humor": "sexy",
+      "descricao": "Preto com o monograma VS e o nome da marca em branco, camiseta de manga curta e short curto, os dois com a barra ondulada. O clássico da gaveta.",
+      "destaque": true
+    },
+    {
+      "nome": "Pijama Victoria's Secret listrado rosa",
+      "categoria": "Pijamas",
+      "local": "07.jpg",
+      "marca": "Victoria's Secret",
+      "linha": "camiseta e short",
+      "humor": "fofa",
+      "descricao": "As listras rosa e branco da marca com o monograma e o coração alado, camiseta de manga curta e short com a barra ondulada."
+    },
+    {
+      "nome": "Short doll beijos e corações",
+      "categoria": "Pijamas",
+      "local": "08.jpg",
+      "linha": "alcinha e short",
+      "humor": "divertida",
+      "descricao": "Branco com bocas vermelhas, coraçõezinhos e o monograma em preto, alcinha fina e short com a barra ondulada. Delicado, elegante e cheio de charme, como diz o post."
+    },
+    {
+      "nome": "Short doll Victoria's Secret preto",
+      "categoria": "Pijamas",
+      "local": "09.jpg",
+      "marca": "Victoria's Secret",
+      "linha": "alcinha e short",
+      "humor": "sexy",
+      "descricao": "Preto com o monograma VS em branco, alcinha fina regulável e short curto com a barra ondulada. A versão de alcinha do clássico.",
+      "destaque": true
+    }
+  ]
+}
